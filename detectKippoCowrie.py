@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # detectKippoCowrie.py
 #
-#
+# Proof of concept to detect Kippo and Cowrie SSH honeypots
 #
 # by Julio Cesar Fort
 # Copyright 2016-2018 Blaze Information Security
